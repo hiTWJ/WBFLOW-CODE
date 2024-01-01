@@ -1,0 +1,18 @@
+python evalute_camera_unet.py --train_cam 'UNET_Canon1DsMkIII'
+python evalute_camera_unet.py --train_cam 'UNET_Canon1DsMkIII_Canon600D'
+python evalute_camera_unet.py --train_cam 'UNET_Canon1DsMkIII_Canon600D_FujifilmXM1'
+python evalute_camera_unet.py --train_cam 'UNET_Canon1DsMkIII_Canon600D_FujifilmXM1_NikonD5200'
+python evalute_camera_unet.py --train_cam 'UNET_Canon1DsMkIII_Canon600D_FujifilmXM1_NikonD5200_OlympusEPL6'
+python evalute_camera_unet.py --train_cam 'UNET_Canon1DsMkIII_Canon600D_FujifilmXM1_NikonD5200_OlympusEPL6_SonyA57'
+python evalute_camera_unet.py --train_cam 'UNET_Canon1DsMkIII_Canon600D_FujifilmXM1_NikonD5200_OlympusEPL6_SonyA57_SamsungNX2000'
+
+python evalute_camera.py --train_cam 'GLOW_Canon1DsMkIII'
+python evalute_camera.py --train_cam 'GLOW_Canon1DsMkIII_Canon600D'
+python evalute_camera.py --train_cam 'GLOW_Canon1DsMkIII_Canon600D_FujifilmXM1'
+python evalute_camera.py --train_cam 'GLOW_Canon1DsMkIII_Canon600D_FujifilmXM1_NikonD5200'
+python evalute_camera.py --train_cam 'GLOW_Canon1DsMkIII_Canon600D_FujifilmXM1_NikonD5200_OlympusEPL6'
+python evalute_camera.py --train_cam 'GLOW_Canon1DsMkIII_Canon600D_FujifilmXM1_NikonD5200_OlympusEPL6_SonyA57'
+python evalute_camera.py --train_cam 'GLOW_Canon1DsMkIII_Canon600D_FujifilmXM1_NikonD5200_OlympusEPL6_SonyA57_SamsungNX2000'
+
+
+

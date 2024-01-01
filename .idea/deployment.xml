@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="lcx@10.112.233.137:22 (2)" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="chunxiao@10.108.226.247:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/chunxiao/ArtFlow" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="lcx@10.112.159.7:10087">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/lcx/artflow" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="lcx@10.112.233.137:22 (2)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/lcx/FLOW" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="lcx@10.128.130.141:10087 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/lcx/artflow" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
